@@ -6,7 +6,7 @@ I have experience in data science especially within the facebook marketing space
 As far as collaborations, I'm open to collaboration in anything! Always trying to gain more experience in both spaces of software development, and data science. 
 
 Linked in: 
-www.linkedin.com/in/claytonwasenius. 
+www.linkedin.com/in/claytonwasenius
 
 Email: 
 wasenius98@gmail.com
