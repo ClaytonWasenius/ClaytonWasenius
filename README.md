@@ -2,7 +2,7 @@
 
 I have experience in data science especially within the facebook marketing space as I used to run numerous businesses during the ecommerce boom between 2017 - 2019. 
 
-Currently working on a version of Conway's Game of Life with added features to play around with. (C++). Should be posted within the next week in my repositories. 
+Just finished Conway's Game of Life in 2-dimensions (C++), hoping to advance into 3-dimensions and then onto 4d to discover how different ecosystems could possibly thrive in multiple dimensions along with allowing the user to change Conway's rules to see how this to thriving of life in different dimensions with/without different rulesets for reproduction and decay. 
 
 As far as collaborations, I'm open to collaboration in anything! Always trying to gain more experience in both spaces of software development, and data science. 
 
